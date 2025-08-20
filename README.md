@@ -8,6 +8,13 @@ Este proyecto fue creado como parte del curso de Udemy:
 
 ---
 
+## 🌐 Demo en línea
+
+Podés probar el proyecto aquí:  
+👉 [Ver proyecto en vivo](https://bejewelled-truffle-dc82c9.netlify.app/)
+
+---
+
 ## 🚀 Funcionalidades
 
 - **Búsqueda por categoría:** las categorías se obtienen dinámicamente desde la API.
