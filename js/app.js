@@ -1,5 +1,6 @@
 function iniciarApp(){
     const selectCategorias = document.querySelector('#categorias');
+    const resultado = document.querySelector('#resultado');
 
     if(selectCategorias){
         selectCategorias.addEventListener('change', seleccionarCategoria);
@@ -10,7 +11,6 @@ function iniciarApp(){
         obtenerFavoritos();
     }
 
-    const resultado = document.querySelector('#resultado');
     const modal = new bootstrap.Modal('#modal', {});
 
 
